@@ -1,0 +1,12 @@
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/bin/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.deps.json
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/bin/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.dll
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/bin/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.pdb
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.csproj.AssemblyReference.cache
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.AssemblyInfoInputs.cache
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.AssemblyInfo.cs
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.csproj.CoreCompileInputs.cache
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.dll
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/refint/Ada.CodeAtCs.Aula1.Core.dll
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/Ada.CodeAtCs.Aula1.Core.pdb
+/Users/viniciusmussak/Documents/ada/code-at-cs-aula-01/Ada.CodeAtCs.Aula1/Ada.CodeAtCs.Aula1.Core/obj/Debug/net7.0/ref/Ada.CodeAtCs.Aula1.Core.dll

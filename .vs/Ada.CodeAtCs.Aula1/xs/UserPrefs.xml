@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A204C7FC-6135-4751-B764-19C6BB5D70FA}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ada.CodeAtCs.Aula1/Program.cs">
+    <Files>
+      <File FileName="Ada.CodeAtCs.Aula1/WeatherForecast.cs" />
+      <File FileName="Ada.CodeAtCs.Aula1/Program.cs" Line="14" Column="27" />
+      <File FileName="Ada.CodeAtCs.Aula1/Controllers/WeatherForecastController.cs" Line="29" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ada.CodeAtCs.Aula1" expanded="True">
+            <Node name="Ada.CodeAtCs.Aula1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ada.CodeAtCs.Aula1 PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ada.CodeAtCs.Aula1.Application FirstBuild="True" />
+</Properties>

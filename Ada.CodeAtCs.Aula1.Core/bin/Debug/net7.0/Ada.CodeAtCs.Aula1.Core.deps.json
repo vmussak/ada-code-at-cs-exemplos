@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ada.CodeAtCs.Aula1.Core/1.0.0": {
+        "runtime": {
+          "Ada.CodeAtCs.Aula1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ada.CodeAtCs.Aula1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
